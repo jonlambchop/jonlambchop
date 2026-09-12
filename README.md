@@ -52,6 +52,10 @@ An unofficial archive of Hollywood Handshake bakes from *The Great British Bake 
 
 [Visit test project](https://www.handshake-worthy.com/)
 
+[<img src="assets/handshake-worthy-homepage.png" alt="Handshake Worthy homepage featuring a Hollywood Handshake bake and links into the fan archive" width="640">](assets/handshake-worthy-homepage.png)
+
+*Public test site · homepage.*
+
 **Also exploring: Loop Closed.** A development prototype that turns narrated screen recordings into structured coding-agent instructions, with MCP tools for retrieving the resulting work items.
 
 Application source stays private. This profile shares selected work, visuals, and public links.
