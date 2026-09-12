@@ -58,4 +58,4 @@ An unofficial archive of Hollywood Handshake bakes from *The Great British Bake 
 
 **Also exploring: Loop Closed.** A development prototype that turns narrated screen recordings into structured coding-agent instructions, with MCP tools for retrieving the resulting work items.
 
-Application source stays private. This profile shares selected work, visuals, and public links.
+Selected projects from a few dozen private repos.
