@@ -46,6 +46,12 @@ Photograph a car-window specification sheet, extract the details into a saved ve
 
 *Demonstration data · comparison UI preview.*
 
+### Handshake Worthy — Grok Bot test project
+
+An unofficial archive of Hollywood Handshake bakes from *The Great British Bake Off*, built as a fun Grok Bot experiment. I directed the bot to build the site and keep finding missing recipes and photos between sessions.
+
+[Visit test project](https://www.handshake-worthy.com/)
+
 **Also exploring: Loop Closed.** A development prototype that turns narrated screen recordings into structured coding-agent instructions, with MCP tools for retrieving the resulting work items.
 
 Application source stays private. This profile shares selected work, visuals, and public links.
