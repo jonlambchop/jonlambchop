@@ -8,6 +8,14 @@ I co-lead **Kinetech's Public Sector & Nonprofit practice**, with responsibility
 
 Outside work, I build tools for problems I encounter—from running a food business to shopping for a car. I use AI-assisted development extensively and explore AI within the products themselves. The projects below are personal builds; they reflect hands-on development and experimentation alongside my enterprise software delivery experience.
 
+### Alfred — an AI personal assistant by text
+
+Text Alfred the little things you need to remember and get organized: reminders, lists, and quick questions, answered in the same Messages thread. It started as a phone-and-text butler for my household and now runs as its own product. Alfred works over iMessage and SMS, including group chats, and answers phone calls with a realtime voice model. It is best on iPhone, though Android works too.
+
+Under the hood, signed webhooks from the messaging providers feed one routing point that deduplicates retries, groups a burst of texts into a single reply, and decides whether Alfred should reply at all before calling a model. Per-sender limits, an abuse and prompt-extraction filter, and an administrator-run data deletion flow keep it safe to open to anyone.
+
+[Visit site](https://text-alfred.com)
+
 ### Good Fold — iOS ordering and kitchen operations
 
 A connected ordering and kitchen system I built for my food business. The native iOS app was released on the App Store, and I used it to take orders that appeared on the kitchen computer for preparation and pickup. The system also includes a web storefront, Square payments, shipping labels, and sales reporting.
