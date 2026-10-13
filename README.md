@@ -16,6 +16,10 @@ Under the hood, signed webhooks from the messaging providers feed one routing po
 
 [Visit site](https://text-alfred.com)
 
+[<img src="assets/alfred-chat-demo.png" alt="Alfred iMessage thread with a fictional reminder, grocery list, and corrected reminder time" width="380">](assets/alfred-chat-demo.png)
+
+*Illustrative conversation · demonstration data.*
+
 ### Good Fold — iOS ordering and kitchen operations
 
 A connected ordering and kitchen system I built for my food business. The native iOS app was released on the App Store, and I used it to take orders that appeared on the kitchen computer for preparation and pickup. The system also includes a web storefront, Square payments, shipping labels, and sales reporting.
